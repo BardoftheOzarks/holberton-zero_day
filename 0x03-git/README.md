@@ -1,0 +1,1 @@
+Directory containing projects for learning Git
